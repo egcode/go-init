@@ -1,0 +1,6 @@
+# Go Download
+https://golang.org/dl/
+
+# Go Standard libraries help
+https://goland.org/pkg/
+
